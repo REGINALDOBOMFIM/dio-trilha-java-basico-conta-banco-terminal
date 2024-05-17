@@ -1,18 +1,30 @@
-## Getting Started
+<h1 align="center">Olá 👋, meu nome Reginaldo.</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h3 align="center">Estou iniciando na programação :rocket:, começando os meus estudos e projetos.</h3>
 
-## Folder Structure
+<h3 align="left">🌱 Atualmente estou aprendendo:</h3>
 
-The workspace contains two folders by default, where:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a><img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white"/></a></p> 
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<h1 align="center">Título do Projeto: Conta Banco Terminal</h1>
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+<h2 align="left">📄 Síntese</h2>
 
-## Dependency Management
+<h3 align="center">Esse projeto tem como objetivo, aperfeiçoar a ferramenta Java e a classe Scanner.</h3>
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<h2 aiign="left">📝 Descrição do projeto</h2>
+
+<p align="left">A proposta foi simular a interação de uma conta banco com o usuário, onde o mesmo insere as informações e no final recebe uma mensagem personalizada com os dados digitados.</p>
+
+
+<h3 align="left">Obrigado pela visita🤝:</h3>
+
+Até logo! :sunglasses:
+
+[![Reginaldo stats](https://github-readme-stats.vercel.app/api?username=reginaldobomfim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldobomfim&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
